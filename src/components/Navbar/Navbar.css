@@ -1,0 +1,84 @@
+.navbar {
+  align-items: center !important;
+  background-color: #595959;
+  display: flex;
+  flex-direction: row !important;
+  height: 8vh;
+  padding: 0 !important;
+  position: sticky;
+}
+
+.navbar-content {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  padding: 0 20px;
+  width: 100%;
+}
+
+.navbar-content-brand {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+.navbar-content-info {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-link {
+  color: rgb(194, 194, 194) !important;
+  font-size: 0.9rem;
+  margin-left: 15px;
+  padding: 0 !important;
+}
+
+.nav-link:hover {
+  color: white !important;
+}
+
+#fpe-logo {
+  height: 35px !important;
+}
+
+.fpe {
+  color: rgb(211, 211, 211);
+  font-size: 0.6rem;
+  line-height: 0.7rem;
+  margin: 0 0 0 5px;
+}
+
+.toast {
+  position: absolute !important;
+  right: 0;
+  width: 190px !important;
+  z-index: 900 !important;
+}
+
+.toast-text {
+  font-size: 0.8rem;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    height: 10vh !important;
+  }
+
+  .nav-link {
+    font-size: 1rem;
+    margin-left: 30px;
+  }
+
+  #fpe-logo {
+    height: 45px !important;
+  }
+
+  .fpe {
+    font-size: 0.8rem;
+    line-height: 0.9rem;
+  }
+}

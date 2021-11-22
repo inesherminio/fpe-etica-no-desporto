@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Jogas com ética?",
+    "description": "Achas que tens o que é preciso para ser um ás na esgrima e na ética? Consegues equilibrar o teu espírito competitivo com o respeito pelo jogo e por todos os envolvidos? Descobre se alcanças o pódio neste quizz.",
+    "mainButton": {
+      "mainText": "Em guarda. Prontos? Começar!",
+      "mainColor": "#C60116",
+      "mainTextColor": "#FFFFFF"
+    },
+    "secondaryButton": {
+      "secondaryText": "",
+      "secondaryColor": "",
+      "secondaryTextColor": ""
+    }
+  },
+  {
+    "title": "És o Às da ética!",
+    "description": "Parabéns! És o melhor nesta temática e isso define um grande jogador. Não te esqueças de manter uma conduta respeitadora com todos os intervenientes e sê um influenciador positivo entre os teus colegas.",
+    "mainButton": {
+      "mainText": "Voltar à página principal",
+      "mainColor": "#D9D9D9",
+      "mainTextColor": "black"
+    },
+    "secondaryButton": {
+      "secondaryText": "",
+      "secondaryColor": "",
+      "secondaryTextColor": ""
+    }
+  },
+  {
+    "title": "Estás no pódio!",
+    "description": "Parabéns! Podes não ter alcançado a medalha de ouro mas asseguraste um lugar no pódio da Ética. Não te esqueças de continuar a progredir nesta temática.",
+    "mainButton": {
+      "mainText": "Voltar à página principal",
+      "mainColor": "#D9D9D9",
+      "mainTextColor": "black"
+    },
+    "secondaryButton": {
+      "secondaryText": "Repetir o quizz",
+      "secondaryColor": "#C60116",
+      "secondaryTextColor": "#FFFFFF"
+    }
+  },
+  {
+    "title": "Tens ido aos treinos?",
+    "description": "Tens ido aos treinos da Ética? Precisas de relembrar alguns conceitos e consolidar os conhecimentos principais para respeitares todos. Procura mais informação no site da FPE.",
+    "mainButton": {
+      "mainText": "Voltar à página principal",
+      "mainColor": "#D9D9D9",
+      "mainTextColor": "black"
+    },
+    "secondaryButton": {
+      "secondaryText": "Repetir o quizz",
+      "secondaryColor": "#C60116",
+      "secondaryTextColor": "#FFFFFF"
+    }
+  },
+  {
+    "title": "Levaste um cartão!",
+    "description": "Será cartão vermelho ou cartão preto? Precisas de compreender melhor os conceitos e aplicar no teu dia-a-dia. Um bom jogador é aquele que joga sempre com ética! Procura mais informação no site da FPE.",
+    "mainButton": {
+      "mainText": "Voltar à página principal",
+      "mainColor": "#D9D9D9",
+      "mainTextColor": "black"
+    },
+    "secondaryButton": {
+      "secondaryText": "Repetir o quizz",
+      "secondaryColor": "#C60116",
+      "secondaryTextColor": "#FFFFFF"
+    }
+  }
+]

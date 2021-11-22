@@ -1,0 +1,222 @@
+[
+  {
+    "number": 1,
+    "question": "Que tipo de atitude deves tomar face a uma derrota?",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Atribuir a culpa ao treinador ou ao árbitro",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Felicitar o adversário e refletir sobre o jogo",
+        "score": 1
+      },
+      {
+        "line": "C",
+        "text": "Atribuir a derrota à batota que pensas que o adversário fez",
+        "score": 0
+      }
+    ],
+    "progress": 10
+  },
+  {
+    "number": 2,
+    "question": "Ser um bom desportista é:",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Procurar ganhar um jogo a qualquer custo, mesmo que se tenha de fazer batota",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Procurar sempre a vitória, através do esforço e respeitando todos os intervenientes",
+        "score": 1
+      },
+      {
+        "line": "C",
+        "text": "Ficar feliz com as vitórias, dirigindo palavras desagradáveis aos adversários",
+        "score": 0
+      }
+    ],
+    "progress": 20
+  },
+  {
+    "number": 3,
+    "question": "O árbitro valida incorretamente um toque que deste no chão. Como deves proceder?",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Se estiver a perder não digo nada",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Se estiver a ganhar por uma larga vantagem, aviso o árbitro que o toque foi no chão",
+        "score": 0
+      },
+      {
+        "line": "C",
+        "text": "Independentemente do resultado do jogo naquele momento, aviso o árbitro que o toque foi no chão",
+        "score": 1
+      }
+    ],
+    "progress": 30
+  },
+  {
+    "number": 4,
+    "question": "Tu e o teu adversário tocaram ao mesmo tempo, mas o árbitro atribuiu o ponto ao teu adversário. O que deves fazer:",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Avaliar a razão da decisão do árbitro e planear o próximo toque tendo em conta os toques anteriores",
+        "score": 1
+      },
+      {
+        "line": "B",
+        "text": "Argumentar e refilar com o árbitro, tentando fazê-lo ver que estava errado",
+        "score": 0
+      },
+      {
+        "line": "C",
+        "text": "Tomar um comportamento derrotista, achando que o árbitro está contra ti, logo nunca poderás ganhar",
+        "score": 0
+      }
+    ],
+    "progress": 40
+  },
+  {
+    "number": 5,
+    "question": "Nos desportos de combate a `regra de ouro` é:",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Água mole em pedra dura tanto bate até que fura",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Procurar a vitória a qualquer custo",
+        "score": 0
+      },
+      {
+        "line": "C",
+        "text": "Procurar ganhar sem nunca magoar o adversário",
+        "score": 1
+      }
+    ],
+    "progress": 50
+  },
+  {
+    "number": 6,
+    "question": "Os teus pais querem marcar uma viagem contigo, ainda no período de treinos. O que deves fazer?",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Ficar contente e agradecer, pois adoras viajar e achaste uma ótima ideia",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Avisar o teu treinador que não vais aos treinos nesses dias, mas que queres ir à prova seguinte",
+        "score": 0
+      },
+      {
+        "line": "C",
+        "text": "Falar com os teus pais para tentar remarcar a viagem para quando não seja preciso faltar a treinos e provas",
+        "score": 1
+      }
+    ],
+    "progress": 60
+  },
+  {
+    "number": 7,
+    "question": "Quando os teus adversários ganham, como te deves comportar?",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Devo aceitar, com naturalidade, a alegria dos adversários, embora goste de ganhar",
+        "score": 1
+      },
+      {
+        "line": "B",
+        "text": "Deixar de praticar desporto, pois só gosto de ganhar",
+        "score": 0
+      },
+      {
+        "line": "C",
+        "text": "Queixar-me da sorte dos adversários",
+        "score": 0
+      }
+    ],
+    "progress": 70
+  },
+  {
+    "number": 8,
+    "question": "O que deves fazer quando vês algum colega agir de forma desrespeitosa com adversários antes ou depois do jogo?",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Dar-lhe apoio, pois só temos que respeitar os adversários durante o jogo",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Fazer-lhe ver que não é correto desrespeitar ninguém, durante o jogo e em todos os restantes momentos",
+        "score": 1
+      },
+      {
+        "line": "C",
+        "text": "Não dizer nada",
+        "score": 0
+      }
+    ],
+    "progress": 80
+  },
+  {
+    "number": 9,
+    "question": "Porque é que a pontualidade e assiduidade são importantes?",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Porque sendo assíduo e pontual nunca tenho que me justificar ao treinador",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Porque se eu faltar ou chegar depois da hora posso ter mais tempo para estar com os meus amigos",
+        "score": 0
+      },
+      {
+        "line": "C",
+        "text": "Porque devo honrar os meus compromissos para comigo e para com os meus colegas e treinador",
+        "score": 1
+      }
+    ],
+    "progress": 90
+  },
+  {
+    "number": 10,
+    "question": "Porque razão perder um jogo não significa que tenhamos jogado mal ou não nos tenhamos esforçado?",
+    "answers": [
+      {
+        "line": "A",
+        "text": "Porque eu jogo sempre bem e só perco quando os adversários fazem batota",
+        "score": 0
+      },
+      {
+        "line": "B",
+        "text": "Porque às vezes o adversário joga melhor do que eu e merece a vitória",
+        "score": 1
+      },
+      {
+        "line": "C",
+        "text": "Porque o árbitro ajudou o adversário a obter a vitória",
+        "score": 0
+      }
+    ],
+    "progress": 100
+  }
+]

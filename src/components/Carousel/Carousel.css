@@ -1,0 +1,27 @@
+.item-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 16px;
+  display: flex;
+  height: 220px;
+}
+
+.carousel-info {
+  text-align: left;
+  width: 280px;
+}
+
+.carousel-info-h6 {
+  font-size: 0.9rem;
+}
+.carousel-info-p {
+  font-size: 0.7rem;
+}
+
+.carousel {
+  height: 220px !important;
+  width: 400px !important;
+}
+
+.carousel-caption {
+  padding-bottom: 50px;
+}

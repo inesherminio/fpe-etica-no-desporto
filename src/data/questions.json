@@ -37,7 +37,7 @@
       },
       {
         "line": "C",
-        "text": "Ficar feliz com as vitórias, dirigindo palavras desagradáveis aos adversários",
+        "text": "Ficar feliz com as vitórias e dirigir palavras desagradáveis aos adversários",
         "score": 0
       }
     ],
@@ -45,7 +45,7 @@
   },
   {
     "number": 3,
-    "question": "O árbitro valida incorretamente um toque que deste no chão. Como deves proceder?",
+    "question": "O árbitro valida, incorretamente, um toque que deste no chão. Como deves proceder?",
     "answers": [
       {
         "line": "A",
@@ -199,7 +199,7 @@
   },
   {
     "number": 10,
-    "question": "Porque razão perder um jogo não significa que tenhamos jogado mal ou não nos tenhamos esforçado?",
+    "question": "Por que razão perder um jogo não significa que tenhamos jogado mal ou não nos tenhamos esforçado?",
     "answers": [
       {
         "line": "A",

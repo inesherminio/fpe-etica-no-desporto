@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./Navbar.css";
 import fpeLogo from "../../images/logo-FPE.png";
-import { NavLink } from "react-router-dom";
 import * as PATHS from "../../utils/paths";
 import Toast from "react-bootstrap/Toast";
 import ToastInfo from "../ToastInfo/ToastInfo";
@@ -17,7 +16,7 @@ function Navbar() {
             <img
               src={fpeLogo}
               alt="Logo Federação Portuguesa de Esgrima"
-              class="d-inline-block align-text-top"
+              className="d-inline-block align-text-top"
               id="fpe-logo"
             />
             <p className="fpe">

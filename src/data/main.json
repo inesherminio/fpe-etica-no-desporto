@@ -1,7 +1,7 @@
 [
   {
     "title": "Jogas com ética?",
-    "description": "Achas que tens o que é preciso para ser um ás na esgrima e na ética? Consegues equilibrar o teu espírito competitivo com o respeito pelo jogo e por todos os envolvidos? Descobre se alcanças o pódio neste quizz.",
+    "description": "Achas que tens o que é preciso para ser um ás na esgrima e na ética? Consegues equilibrar o teu espírito competitivo com o respeito pelo jogo e por todos os envolvidos? Descobre se alcanças o pódio neste quiz.",
     "mainButton": {
       "mainText": "Em guarda. Prontos? Começar!",
       "mainColor": "#C60116",
@@ -36,7 +36,7 @@
       "mainTextColor": "black"
     },
     "secondaryButton": {
-      "secondaryText": "Repetir o quizz",
+      "secondaryText": "Repetir o quiz",
       "secondaryColor": "#C60116",
       "secondaryTextColor": "#FFFFFF"
     }
@@ -50,7 +50,7 @@
       "mainTextColor": "black"
     },
     "secondaryButton": {
-      "secondaryText": "Repetir o quizz",
+      "secondaryText": "Repetir o quiz",
       "secondaryColor": "#C60116",
       "secondaryTextColor": "#FFFFFF"
     }
@@ -64,7 +64,7 @@
       "mainTextColor": "black"
     },
     "secondaryButton": {
-      "secondaryText": "Repetir o quizz",
+      "secondaryText": "Repetir o quiz",
       "secondaryColor": "#C60116",
       "secondaryTextColor": "#FFFFFF"
     }

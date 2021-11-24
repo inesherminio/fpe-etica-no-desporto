@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import axios from "axios";
 import esgrima2 from "../images/esgrima2.jpg";
 import profile from "../data/main.json";
 import Main from "../components/Main/Main";
@@ -21,7 +22,10 @@ function Result({ totalScore, setTotalScore }) {
       setResult(4);
       setIsLoading(false);
     }
-  }, []);
+    axios.post(`http://localhost:5005/api/addScore`, {
+      totalScore,
+    });
+  }, [totalScore]);
 
   return (
     <div className="result-container">

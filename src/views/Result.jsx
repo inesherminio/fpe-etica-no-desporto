@@ -22,7 +22,7 @@ function Result({ totalScore, setTotalScore }) {
       setResult(4);
       setIsLoading(false);
     }
-    axios.post(`http://localhost:5005/api/addScore`, {
+    axios.post(`${process.env.REACT_APP_SERVER_URL}/addScore`, {
       totalScore,
     });
   }, [totalScore]);
